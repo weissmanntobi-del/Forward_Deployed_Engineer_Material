@@ -52,6 +52,29 @@ It focuses on practical interview thinking, common question patterns, debugging 
 https://tobiweissmann.gumroad.com/l/fnujuk
 
 ---
+## 2. Complete GenAI Forward Deployed Engineer Interview System
+
+Best for:
+Software engineers, AI engineers, solution architects, and technical consultants preparing for GenAI Forward Deployed Engineer interviews.
+
+The Complete GenAI FDE Interview System is designed to help candidates understand how Forward Deployed Engineer interviews differ from traditional software engineering interviews.
+
+Instead of focusing only on coding and algorithms, the system develops the broader skills expected from an FDE, including:
+
+Customer discovery and problem reframing
+Production-oriented GenAI architecture
+RAG and agentic AI system design
+Debugging and incident response
+Security, evaluation, observability, cost, and latency trade-offs
+Stakeholder communication and executive-level reasoning
+Customer-facing engineering judgment
+Structured responses to common FDE interview scenarios
+
+The material emphasizes practical interview preparation through realistic questions, architecture exercises, debugging scenarios, case studies, hands-on labs, and answer-quality frameworks.
+
+Get the Complete GenAI FDE Interview System:
+https://tobiweissmann.gumroad.com/l/dlufiv
+
 
 ## 2. Forward Deployed Engineer Interview Bundle
 
