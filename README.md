@@ -14,8 +14,13 @@ Forward Deployed Engineers are expected to solve messy real-world customer probl
 
 This repository is a free starter kit to help you understand how FDE interviews actually feel.
 
-**Get the book here:**  
-https://tobiweissmann.gumroad.com/l/fnujuk
+Need the complete preparation system?
+
+This repository is a free starter kit that you can use independently.
+Candidates who need the complete structured system—including additional cases, coding practice, evaluation frameworks and study plans—can view the paid edition here:
+
+Explore the complete FDE Interview System → https://tobiweissmann.gumroad.com/l/fnujuk
+
 
 ---
 
@@ -240,5 +245,7 @@ Communicate Trade-offs
 Deploy Safely
       ↓
 Monitor and Improve
+
+
 
 
