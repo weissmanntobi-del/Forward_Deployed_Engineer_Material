@@ -14,6 +14,9 @@ Forward Deployed Engineers are expected to solve messy real-world customer probl
 
 This repository is a free starter kit to help you understand how FDE interviews actually feel.
 
+**Get the book here:**  
+https://tobiweissmann.gumroad.com/l/fnujuk
+
 ---
 
 ## What Is a Forward Deployed Engineer?
