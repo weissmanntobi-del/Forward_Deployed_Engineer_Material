@@ -19,7 +19,7 @@ Need the complete preparation system?
 This repository is a free starter kit that you can use independently.
 Candidates who need the complete structured system—including additional cases, coding practice, evaluation frameworks and study plans—can view the paid edition here:
 
-Explore the Complete FDE Interview System → https://tobiweissmann.gumroad.com/l/fnujuk
+Explore the AI Forward Deployed Engineer Interview System → https://tobiweissmann.gumroad.com/l/fnujuk
 
 
 ---
