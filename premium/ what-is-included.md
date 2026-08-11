@@ -39,7 +39,7 @@ This material is designed to help you practice that thinking.
 
 # Premium Book Links
 
-## 1. Forward Deployed Engineer Interview Playbook
+## 1. AI Forward Deployed Engineer Interview System
 
 **Best for:**  
 Developers who want a focused introduction to FDE interview preparation.
